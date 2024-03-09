@@ -50,10 +50,12 @@
 
 <br clear="both">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tushargandhi77&show_icons=true&locale=en&layout=compact" alt="tushargandhi77" /></p>
+<h3 align="left">🔥   My Stats :</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tushargandhi77&show_icons=true&locale=en" alt="tushargandhi77" /></p>
+###
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tushargandhi77&" alt="tushargandhi77" /></p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=tushargandhi77&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ###
