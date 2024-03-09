@@ -73,4 +73,5 @@
   />
 </picture>
 
+<img src="https://raw.githubusercontent.com/tushargandhi77/tushargandhi77/output/snake.svg" alt="snake animation" />
 ###
