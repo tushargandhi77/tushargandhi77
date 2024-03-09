@@ -50,6 +50,10 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tushargandhi77&show_icons=true&locale=en&layout=compact" alt="tushargandhi77" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tushargandhi77&show_icons=true&locale=en" alt="tushargandhi77" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tushargandhi77&" alt="tushargandhi77" /></p>
 
 ###
