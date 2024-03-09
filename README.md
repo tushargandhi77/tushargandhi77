@@ -1,4 +1,8 @@
-<h1 align="center">Hey , I'm Tushar Gandhi</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Tushar+Gandhi!;&center=true&size=30">
+  </a>
+</h1>
 <h3 align="center">As a passionate and driven student from India, I am deeply immersed in the dynamic and evolving fields of Data Science, Machine Learning, Deep Learning, and Web Development. My enthusiasm for these cutting-edge technologies is evident in my relentless pursuit of knowledge and skills in these domains. In the realm of Data Science, I thrive on extracting meaningful insights from vast datasets, employing statistical techniques and machine learning algorithms to solve complex problems. My fascination with Machine Learning and Deep Learning extends to the realm of artificial intelligence, where I am dedicated to understanding and implementing innovative solutions that push the boundaries of what is possible. Simultaneously, I am honing my skills in Web Development, creating seamless and visually appealing digital experiences. This multifaceted journey as a student reflects my commitment to staying at the forefront of technological advancements, contributing to the ever-evolving landscape of information technology and making a meaningful impact in these exciting fields.</h3>
 
 - 👯 I’m looking to collaborate on [prismlens](https://github.com/razzivofficial/PrismLens)
