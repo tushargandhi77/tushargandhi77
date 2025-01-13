@@ -104,19 +104,23 @@ Hi there! 👋 I’m a passionate student from India, deeply immersed in the exc
 ###
 
 <h3 align="center">
-  My Conntributions
+🔥 My Conntributions 🔥
 </h3>
 </br>
 
 ![snake gif](https://github.com/tushargandhi77/tushargandhi77/blob/output/github-contribution-grid-snake-dark.svg)
 
-
+</br
+<h3 align="center">🏆 Trophies 🏆</h3>
+</br>
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=tushargandhi77" alt="tushargandhi77" />
+        <img src="https://github-profile-trophy.vercel.app/?username=tushargandhi77&theme=kimbie_dark&column=3&exclude=Followers,Issues,PullRequest" alt="tushargandhi77" />
     </a>
 </p>
 
+
+</br>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=tushargandhi77&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
