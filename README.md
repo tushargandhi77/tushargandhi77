@@ -18,7 +18,7 @@ Hi there! 👋 I’m a passionate student from India, deeply immersed in the exc
 🔭 Constantly exploring cutting-edge technologies, I am committed to staying ahead in this ever-evolving tech landscape. Let’s collaborate, innovate, and create a meaningful future together! 🌟</h3>
 
 
-- 👨‍💻 All of my projects are available at [https://portfolio-e86i.vercel.app/](https://portfolio-e86i.vercel.app/)
+- 👨‍💻 All of my projects are available at [tushargandhi.dev](https://tushargandhi.dev)
 ###
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px">
 
