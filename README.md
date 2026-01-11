@@ -110,14 +110,22 @@ Hi there! 👋 I’m a passionate student from India, deeply immersed in the exc
 
 ![snake gif](https://github.com/tushargandhi77/tushargandhi77/blob/output/github-contribution-grid-snake-dark.svg)
 
-</br
-<h3 align="center">🏆 Trophies 🏆</h3>
 </br>
-<p align="center">
+<h3 align="center">🏆 LeetCode 🏆</h3>
+</br>
+<!-- <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=tushargandhi77&theme=kimbie_dark&column=3&exclude=Followers,Issues,PullRequest" alt="tushargandhi77" />
     </a>
+</p> -->
+
+<p align="center">
+  <img 
+    src="https://leetcard.jacoblin.cool/tushar_gandhi?ext=heatmap"
+    width="600"
+  />
 </p>
+
 
 
 </br>
