@@ -5,6 +5,29 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Tushar+Gandhi!;&center=true&size=30">
   </a>
 </h1>
+
+<p align="center">
+
+<!-- Top GIF -->
+<a href="https://www.youtube.com/watch?v=SDkAGkd4NLc">
+  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="85%" height="500px" style="display:block;margin:auto;">
+</a>
+
+<table width="1400px" align="center" border="0" cellspacing="0" cellpadding="0">
+<tr>
+
+<td width="50%">
+<img src="https://user-images.githubusercontent.com/55251741/126354943-9191dd62-9fd9-45c9-b5a4-a90ed3d9f602.gif" height="320px" width="100%" style="display:block;">
+</td>
+
+<td width="50%">
+<img src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" height="320px" width="100%" style="display:block;">
+</td>
+
+</tr>
+</table>
+
+</p>
 <h3 align="center">🌟 Driven Innovator | Lifelong Learner | Tech Enthusiast
 
 Hi there! 👋 I’m a passionate student from India, deeply immersed in the exciting worlds of Data Science, Machine Learning, Deep Learning, and Web Development. My journey is fueled by curiosity, creativity, and an unyielding desire to make an impact through technology.
