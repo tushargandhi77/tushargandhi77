@@ -10,7 +10,7 @@
 
 <!-- Top GIF -->
 <a href="https://www.youtube.com/watch?v=SDkAGkd4NLc">
-  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="85%" height="500px" style="display:block;margin:auto;">
+  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="90%" height="480px" style="display:block;margin:auto;">
 </a>
 
 <table width="1400px" align="center" border="0" cellspacing="0" cellpadding="0">
