@@ -23,24 +23,42 @@ Hi there! 👋 I’m a passionate student from India, deeply immersed in the exc
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px">
 
 <p align="center">
-  <!--- stats (start) -->
+
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=tushargandhi77&theme=ayu-mirage&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tushargandhi77&theme=ayu-mirage&hide_border=false" /> 
+
+
+<img src="https://streak-stats.demolab.com?user=tushargandhi77&theme=ayu-mirage&hide_border=true" />
+
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tushargandhi77&theme=ayu_mirage" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tushargandhi77&theme=react-dark&hide_border=true"/>
+
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tushargandhi77&theme=ayu-mirage&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tushargandhi77&theme=ayu_mirage" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tushargandhi77&theme=ayu_mirage" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tushargandhi77&theme=ayu_mirage" />
+
+</td>
 </tr>
 </table>
-<!--- stats (end) -->
+
+</p>
 
 # <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="50px" height="50px"></img>
 
