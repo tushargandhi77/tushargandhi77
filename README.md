@@ -145,32 +145,24 @@ Hi there! 👋 I’m a passionate student from India, deeply immersed in the exc
 ###
 
 <h3 align="center">
-🔥 My Conntributions 🔥
+🔥 My Contributions 🔥
 </h3>
-</br>
 
-![snake gif](https://github.com/tushargandhi77/tushargandhi77/blob/output/github-contribution-grid-snake-dark.svg)
+<br>
 
-</br>
-<!-- <h3 align="center">🏆 LeetCode 🏆</h3>
-</br>
-<!-- <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=tushargandhi77&theme=kimbie_dark&column=3&exclude=Followers,Issues,PullRequest" alt="tushargandhi77" />
-    </a>
+<p align="center">
+<img alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 </p>
 
-<p align="center">
-  <img 
-    src="https://leetcard.jacoblin.cool/tushar_gandhi?ext=heatmap"
-    width="600"
-  />
-</p> 
- -->
+<br>
 
-
-</br>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=tushargandhi77&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+<img src="https://github.com/tushargandhi77/tushargandhi77/blob/output/github-contribution-grid-snake-dark.svg" width="90%">
+</p>
+
+<br>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=tushargandhi77&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
