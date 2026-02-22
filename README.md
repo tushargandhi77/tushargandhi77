@@ -10,10 +10,10 @@
 
 <!-- Top GIF -->
 <a href="https://www.youtube.com/watch?v=SDkAGkd4NLc">
-  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="90%" height="500px" style="display:block;margin:auto;">
+  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="100%" height="500px" style="display:block;margin:auto;">
 </a>
 
-<table width="1400px" align="center" border="0" cellspacing="0" cellpadding="0">
+<table width="100%" align="center" border="none" cellspacing="0" cellpadding="0">
 <tr>
 
 <td width="50%">
@@ -21,13 +21,14 @@
 </td>
 
 <td width="50%">
-<img src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" height="320px" width="100%" style="display:block;">
+<img src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" height="300px" width="100%" style="display:block;">
 </td>
 
 </tr>
 </table>
 
 </p>
+
 <h3 align="center">
 🚀 AI Engineer | Agentic AI Builder | GenAI Enthusiast | Scalable Systems Explorer
 </h3>
