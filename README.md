@@ -10,7 +10,7 @@
 
 <!-- Top GIF -->
 <a href="https://www.youtube.com/watch?v=SDkAGkd4NLc">
-  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="90%" height="480px" style="display:block;margin:auto;">
+  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="90%" height="500px" style="display:block;margin:auto;">
 </a>
 
 <table width="1400px" align="center" border="0" cellspacing="0" cellpadding="0">
@@ -28,19 +28,44 @@
 </table>
 
 </p>
-<h3 align="center">🌟 Driven Innovator | Lifelong Learner | Tech Enthusiast
+<h3 align="center">
+🚀 AI Engineer | Agentic AI Builder | GenAI Enthusiast | Scalable Systems Explorer
+</h3>
 
-Hi there! 👋 I’m a passionate student from India, deeply immersed in the exciting worlds of Data Science, Machine Learning, Deep Learning, and Web Development. My journey is fueled by curiosity, creativity, and an unyielding desire to make an impact through technology.
+<p align="center">
+Hi there! 👋 I'm a passionate technologist from India focused on building intelligent, scalable, and impactful software systems.
+</p>
 
-💻 Data Science: I love turning raw data into actionable insights, leveraging statistical techniques and machine learning models to solve real-world challenges.
-<br>
-🤖 Machine Learning & Deep Learning: Fascinated by the realm of artificial intelligence, I strive to push boundaries with innovative AI solutions that redefine possibilities.
-<br>
-🌐 Web Development: Crafting seamless, visually stunning, and user-friendly digital experiences is my creative outlet.
+I work at the intersection of **Artificial Intelligence, Data Science, and Modern Software Engineering**, constantly exploring new ways to transform ideas into real-world applications.
 
-🔭 Constantly exploring cutting-edge technologies, I am committed to staying ahead in this ever-evolving tech landscape. Let’s collaborate, innovate, and create a meaningful future together! 🌟</h3>
+💡 **AI Engineering & Generative AI**  
+Building intelligent applications using **LLMs, RAG pipelines, AI agents, and multi-agent systems**. I enjoy designing **Agentic AI workflows** using tools like **LangGraph and LangChain** to create autonomous systems capable of reasoning, research, and task execution.
 
+🤖 **Machine Learning & Deep Learning**  
+Developing predictive models and deep learning architectures to solve complex problems, from data-driven insights to advanced AI systems.
 
+📊 **Data Science**  
+Turning raw data into meaningful insights using **statistics, machine learning, and data visualization** to support intelligent decision-making.
+
+🌐 **Full Stack & Web Development**  
+Creating modern, responsive, and performant web applications with a focus on **clean architecture, usability, and scalability**.
+
+⚡ **Scalable Systems & Backend Engineering**  
+Designing **high-performance, scalable backend systems**, integrating APIs, databases, and distributed architectures to support real-world applications.
+
+🧠 **Current Focus Areas**
+- Agentic AI & Autonomous AI Systems  
+- Generative AI Applications  
+- LLM Engineering & RAG Pipelines  
+- Multi-Agent Architectures  
+- Scalable AI Infrastructure  
+- AI-powered Developer Tools
+- Machine Learning Applications
+- Deep Learning Applications
+
+🔭 I’m constantly exploring emerging technologies and pushing boundaries in **AI, automation, and intelligent systems**.
+
+✨ Always open to **collaborations, research, and building impactful AI products**.
 - 👨‍💻 All of my projects are available at [tushargandhi.dev](https://tushargandhi.dev)
 ###
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px">
