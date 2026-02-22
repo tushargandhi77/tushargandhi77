@@ -52,7 +52,7 @@ Hi there! 👋 I’m a passionate student from India, deeply immersed in the exc
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tushargandhi77&theme=ayu_mirage" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tushargandhi77&theme=ayu_mirage" /> 
 
 </td>
 </tr>
@@ -90,15 +90,15 @@ Hi there! 👋 I’m a passionate student from India, deeply immersed in the exc
 <h2 align="center"></h2>
 </br>
 <div align="center">
-  <a href="https://youtube.com/yourprofile" target="_blank" style="margin: 0 5px;">
+  <!-- <a href="https://youtube.com/yourprofile" target="_blank" style="margin: 0 5px;">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" width="125" alt="youtube logo" />
-  </a>
+  </a> -->
   <a href="https://instagram.com/tushar_gandhi_7" target="_blank" style="margin: 0 5px;">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" width="125" alt="instagram logo" />
   </a>
-  <a href="https://portfolio-e86i.vercel.app/" target="_blank" style="margin: 0 5px;">
+  <!-- <a href="https://portfolio-e86i.vercel.app/" target="_blank" style="margin: 0 5px;">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" width="125" alt="discord logo" />
-  </a>
+  </a> -->
   <a href="mailto:gandhitushar418@gmail.com" target="_blank" style="margin: 0 5px;">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" width="125" alt="gmail logo" />
   </a>
@@ -129,21 +129,21 @@ Hi there! 👋 I’m a passionate student from India, deeply immersed in the exc
 ![snake gif](https://github.com/tushargandhi77/tushargandhi77/blob/output/github-contribution-grid-snake-dark.svg)
 
 </br>
-<h3 align="center">🏆 LeetCode 🏆</h3>
+<!-- <h3 align="center">🏆 LeetCode 🏆</h3>
 </br>
 <!-- <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=tushargandhi77&theme=kimbie_dark&column=3&exclude=Followers,Issues,PullRequest" alt="tushargandhi77" />
     </a>
-</p> -->
+</p>
 
 <p align="center">
   <img 
     src="https://leetcard.jacoblin.cool/tushar_gandhi?ext=heatmap"
     width="600"
   />
-</p>
-
+</p> 
+ -->
 
 
 </br>
