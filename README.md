@@ -30,7 +30,7 @@
 </p>
 
 <h3 align="center">
-🚀 AI Engineer | Agentic AI Builder | GenAI Enthusiast | Scalable Systems Explorer
+🚀 AI Engineer | Agentic AI Builder | GenAI Engineer | Scalable Systems Builder
 </h3>
 
 <p align="center">
